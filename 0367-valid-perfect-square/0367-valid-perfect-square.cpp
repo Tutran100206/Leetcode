@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isPerfectSquare(int num) 
     {
-        double k = sqrt(num);
-        return num == pow(int(k), 2);    
+        int k = sqrt(num);
+        return num == pow(k, 2);    
     }
 };
