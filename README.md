@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Tutran100206/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tutran100206/Leetcode/tree/master/0013-roman-to-integer) |
+| [0367-valid-perfect-square](https://github.com/Tutran100206/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tutran100206/Leetcode/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/Tutran100206/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
