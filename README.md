@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tutran100206/Leetcode/tree/master/0013-roman-to-integer) |
+| [0347-top-k-frequent-elements](https://github.com/Tutran100206/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Tutran100206/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Tutran100206/Leetcode/tree/master/0136-single-number) |
+| [0347-top-k-frequent-elements](https://github.com/Tutran100206/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Tutran100206/Leetcode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
@@ -60,5 +62,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tutran100206/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Tutran100206/Leetcode/tree/master/0455-assign-cookies) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tutran100206/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tutran100206/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tutran100206/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tutran100206/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tutran100206/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
